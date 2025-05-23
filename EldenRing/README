@@ -1,0 +1,36 @@
+Análisis de Datos: Elden Ring
+
+Este proyecto explora datos detallados sobre Elden Ring (FromSoftware, 2022) y su expansión Shadow of the Erdtree, analizando jefes, armas, stats de personaje y más. El objetivo es revelar patrones ocultos, relaciones entre dificultad/recompensas.
+
+Datasets Utilizados 
+
+1. Ultimate Elden Ring with Shadow of The Erdtree DLC
+Creado por: Pedro Altobelli
+Enlace: https://www.kaggle.com/datasets/pedroaltobelli/ultimate-elden-ring-with-shadow-of-the-erdtree-dlc
+Licencia: CC0: Public Domain (libre para uso comercial, sin atribución requerida pero ética).
+Contenido: Stats de jefes, armas, NPCs, ubicaciones y datos del DLC.
+
+2. Elden Ring Ultimate Dataset
+Creado por: Rob Mulla
+Enlace: https://www.kaggle.com/datasets/robikscube/elden-ring-ultimate-dataset
+Licencia: CC0: Public Domain (libre para uso comercial, sin atribución requerida pero ética).
+Contenido: Armas, escudos, ubicaciones, etc. 
+
+Agradecimientos y Citas 
+Este análisis no sería posible sin el trabajo de recopilación de datos de la comunidad. Por favor, considera citar los datasets originales si usas este repositorio:
+
+Citas: 
+Altobelli, P. (2024). Ultimate Elden Ring Dataset with Shadow of the Erdtree DLC. Kaggle. DOI/Link
+Mulla, R. (2022). Elden Ring Ultimate Dataset. Kaggle. DOI/Link
+
+Herramientas utilizadas
+Lenguajes: Python (pandas, matplotlib, seaborn).
+Visualización: Power BI/Tableau (ej: dashboards interactivos).
+Repositorio: GitHub.
+
+Hallazgos Clave 
+Dificultad, Poder de atanque, clases, builds y recompensas.
+Armas más efectivas: Relación entre stats y uso en builds.
+
+Las imágenes/frases de Elden Ring son propiedad de FromSoftware/Bandai Namco. Este proyecto es solo con fines educativos.
+Contribuciones: ¡Siéntete libre de hacer un fork o sugerir mejoras!
